@@ -1,0 +1,6 @@
+{
+  "name": "Nivaran AI",
+  "description": "Nivaran AI — Smart solution for smart communities. Premium hyperlocal civic resolution platform featuring real-time AI computer vision audits, predictive ward diagnostics, automated smart bidding, and legal complaint synthesizers.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
